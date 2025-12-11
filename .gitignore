@@ -23,3 +23,5 @@ cabal.project.local~
 .ghc.environment.*
 
 .direnv/
+input.txt
+TASK.md
